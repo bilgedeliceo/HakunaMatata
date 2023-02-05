@@ -28,6 +28,10 @@ The risk of injury associated with using mental health applications is another i
 
 Finally, there is a huge need for more study on mental health apps. Apps for managing mental health can be helpful, but it's important to choose the ideal one for your needs and understand their limitations. Since there are currently few mental health applications with expert input, mental health professionals need to be more involved in the app development process to increase the quality of these apps. The most effective methods for maintaining mental health ultimately involve self-care, professional treatment, and the use of resources like mental health apps. Furthermore, it is not recommended to substitute expert mental health care with mental health apps.
 
+# Target Audience
+This blogpost was targeted for mental health professionals and individual consumers. Main purpose of this article is to inform the individuals who are interested in using mental health related apps about the strengths and weaknesses of mental health apps, points to keep in mind when choosing to use such an app. Professionals of mental health field can also benefit from the content of this article.
+
+
 # Sources
 
 Andrews, G., Cuijpers, P., Craske, M. G., McEvoy, P., & Titov, N. (2010). Computer Therapy for the Anxiety and Depressive Disorders Is Effective, Acceptable and Practical Health Care: A Meta-Analysis. PLoS ONE, 5(10), e13196. https://doi.org/10.1371/journal.pone.0013196
