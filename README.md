@@ -24,7 +24,9 @@ The long term sustainability of the advantages of mental health apps should be t
  
 Security and privacy issues are a problem with the use of mental health apps. Apps for mental health frequently gather private data, such as details on mood, thoughts, and actions. To secure personal information, it's critical to pick an app with strict privacy and security standards. It's also critical to think about how data gathered by mental health apps will be stored and shared, as well as to comprehend the advantages and disadvantages of data sharing.
 
-The risk of injury associated with using mental health applications is another issue. While many mental health applications provide a number of advantages, some may also provide information or advice that is harmful or not supported by any available evidence. It's crucial to pick an app that has been shown to be efficient and is founded on concepts supported by evidence..
+![Mental Health Infographic](Mental_Health_Design_11x17.jpg)
+
+The risk of injury associated with using mental health applications is another issue. While many mental health applications provide a number of advantages, some may also provide information or advice that is harmful or not supported by any available evidence. It's crucial to pick an app that has been shown to be efficient and is founded on concepts supported by evidence.
 
 Finally, there is a huge need for more study on mental health apps. Apps for managing mental health can be helpful, but it's important to choose the ideal one for your needs and understand their limitations. Since there are currently few mental health applications with expert input, mental health professionals need to be more involved in the app development process to increase the quality of these apps. The most effective methods for maintaining mental health ultimately involve self-care, professional treatment, and the use of resources like mental health apps. Furthermore, it is not recommended to substitute expert mental health care with mental health apps.
 
