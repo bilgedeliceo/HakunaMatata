@@ -20,6 +20,8 @@ The effectiveness of mental health apps as a whole is still not well understood.
 
 The long term sustainability of the advantages of mental health apps should be taken into account. While there are many short term advantages to using these applications, long term improvement and maintenance of mental health depend on the maintenance of healthy practices. According to research, using mental health apps can help people maintain better mental health over time, although this depends on the user's capacity to develop and uphold wholesome routines (Richardson et al., 2010). 
  
+ ![Mental Health](www.wuv.deThemenPeople-SkillsMental-Health-ist-heute-ein-Employer-Branding-Vorteil.jpg)
+ 
 Security and privacy issues are a problem with the use of mental health apps. Apps for mental health frequently gather private data, such as details on mood, thoughts, and actions. To secure personal information, it's critical to pick an app with strict privacy and security standards. It's also critical to think about how data gathered by mental health apps will be stored and shared, as well as to comprehend the advantages and disadvantages of data sharing.
 
 The risk of injury associated with using mental health applications is another issue. While many mental health applications provide a number of advantages, some may also provide information or advice that is harmful or not supported by any available evidence. It's crucial to pick an app that has been shown to be efficient and is founded on concepts supported by evidence..
